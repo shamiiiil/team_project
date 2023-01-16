@@ -1,0 +1,19 @@
+.new-post {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1550px;
+    background-color: rgb(43, 42, 42);
+}
+
+.new-post h3 {
+    margin-top: 60px;
+}
+
+.new-post__form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+    margin-top: 30px;
+} 

@@ -1,0 +1,11 @@
+.navbar {
+    display: flex;
+    width: 40%;
+    height: 60px;
+    background-color: #bebbd8;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #a79c9c;
+    border-radius: 40px;
+   
+}

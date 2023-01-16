@@ -1,0 +1,19 @@
+.registration {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    width: 1200px;
+    background-color: #f5f5f5;
+}
+
+.registration__form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: auto;
+    width: 100%;
+    background-color: #f5f5f5;
+}
